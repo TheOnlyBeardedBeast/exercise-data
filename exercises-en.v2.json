@@ -1,0 +1,3602 @@
+[
+  {
+    "title": "Rickshaw Carry",
+    "target": "Forearms"
+  },
+  {
+    "title": "Single-Leg Press",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Landmine twist",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Weighted pull-up",
+    "target": "Lats"
+  },
+  {
+    "title": "T-Bar Row with Handle",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Palms-down wrist curl over bench",
+    "target": "Forearms"
+  },
+  {
+    "title": "Atlas Stones",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Dumbbell front raise to lateral raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Clean from Blocks",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Incline Hammer Curls",
+    "target": "Biceps"
+  },
+  {
+    "title": "Straight-bar wrist roll-up",
+    "target": "Forearms"
+  },
+  {
+    "title": "Barbell glute bridge",
+    "target": "Glutes"
+  },
+  {
+    "title": "Clean and press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Triceps dip",
+    "target": "Triceps"
+  },
+  {
+    "title": "Dumbbell farmer's walk",
+    "target": "Forearms"
+  },
+  {
+    "title": "Palms-up wrist curl over bench",
+    "target": "Forearms"
+  },
+  {
+    "title": "Barbell Full Squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Barbell deficit deadlift",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Barbell Deadlift",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Single-arm palm-in dumbbell shoulder press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Romanian Deadlift With Dumbbells",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Tire flip",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Clean Deadlift",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Elbow plank",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Bottoms Up",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Barbell back squat to box",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Clean and jerk",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Single-arm kettlebell push-press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Push-press",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Suspended ab fall-out",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Military press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Power snatch-",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Sumo deadlift",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Hang Clean",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Dumbbell V-Sit Cross Jab",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Reverse Band Box Squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Standing palms-in shoulder press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Standing cable low-to-high twist",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Decline EZ-bar skullcrusher",
+    "target": "Triceps"
+  },
+  {
+    "title": "Standing behind-the-back wrist curl",
+    "target": "Forearms"
+  },
+  {
+    "title": "Seated finger curl",
+    "target": "Forearms"
+  },
+  {
+    "title": "Wide-grip barbell curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Dumbbell spell caster",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Dumbbell floor press",
+    "target": "Triceps"
+  },
+  {
+    "title": "Lying Face Down Plate Neck Resistance",
+    "target": "Neck"
+  },
+  {
+    "title": "Pullups",
+    "target": "Lats"
+  },
+  {
+    "title": "Decline reverse crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Dumbbell Bench Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Jumping rope",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Seated barbell shoulder press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "EZ-bar spider curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Smith machine shrug",
+    "target": "Traps"
+  },
+  {
+    "title": "Smith Machine Calf Raise",
+    "target": "Calves"
+  },
+  {
+    "title": "Romanian Deadlift from Deficit",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Power Snatch",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Pushups",
+    "target": "Chest"
+  },
+  {
+    "title": "Barbell walking lunge",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Front Squats With Two Kettlebells",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Spider crawl",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Power Clean from Blocks",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Single Leg Push-off",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Hip Circles (Prone)",
+    "target": "Abductors"
+  },
+  {
+    "title": "Reverse-grip bent-over row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl",
+    "target": "Forearms"
+  },
+  {
+    "title": "Back extension",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Close-grip bench press",
+    "target": "Chest"
+  },
+  {
+    "title": "Cocoons",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Cross-Body Crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Dumbbell Flyes",
+    "target": "Chest"
+  },
+  {
+    "title": "Hammer Curls",
+    "target": "Biceps"
+  },
+  {
+    "title": "Incline dumbbell bench press",
+    "target": "Chest"
+  },
+  {
+    "title": "Low-cable cross-over",
+    "target": "Chest"
+  },
+  {
+    "title": "Single-arm high-cable side bend",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Seated Dumbbell Press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Standing dumbbell shoulder press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "EZ-Bar Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Olympic Squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Natural Glute Ham Raise",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Axle Deadlift",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Zottman Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Glute ham raise-",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Single-arm lateral raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Power Partials",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Leverage Shrug",
+    "target": "Traps"
+  },
+  {
+    "title": "Cable V-bar push-down",
+    "target": "Triceps"
+  },
+  {
+    "title": "Wrist Roller",
+    "target": "Forearms"
+  },
+  {
+    "title": "Incline dumbbell reverse fly",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Stair climber",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Elbow-to-knee crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Kettlebell Pistol Squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Overhead dumbbell front raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Biceps curl to shoulder press",
+    "target": "Biceps"
+  },
+  {
+    "title": "Weighted bench dip",
+    "target": "Triceps"
+  },
+  {
+    "title": "Barbell Hip Thrust",
+    "target": "Glutes"
+  },
+  {
+    "title": "Forward lunge",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Barbell Bench Press - Medium Grip",
+    "target": "Chest"
+  },
+  {
+    "title": "Chest dip",
+    "target": "Chest"
+  },
+  {
+    "title": "Seated dumbbell shoulder press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Barbell Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "EZ-Bar Skullcrusher",
+    "target": "Triceps"
+  },
+  {
+    "title": "One-Arm Dumbbell Row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Alternating standing shoulder press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Concentration curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Decline Crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Decline Dumbbell Flyes",
+    "target": "Chest"
+  },
+  {
+    "title": "Single-arm incline rear delt raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Alternating dumbbell front raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Hanging toes-to-bar",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Narrow-stance squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Kneeling cable oblique crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Reverse Grip Triceps Pushdown",
+    "target": "Triceps"
+  },
+  {
+    "title": "Bear crawl sled drag",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Rocky Pull-Ups/Pulldowns",
+    "target": "Lats"
+  },
+  {
+    "title": "Snatch-Grip Behind-The-Neck Overhead Press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Box Squat with Bands",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Flexor Incline Dumbbell Curls",
+    "target": "Biceps"
+  },
+  {
+    "title": "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
+    "target": "Forearms"
+  },
+  {
+    "title": "Thigh adductor",
+    "target": "Adductors"
+  },
+  {
+    "title": "Machine Bicep Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Seated Palms-Down Barbell Wrist Curl",
+    "target": "Forearms"
+  },
+  {
+    "title": "Car driver",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Alternating Deltoid Raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Hanging Oblique Knee Raise",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Bodyweight Flyes",
+    "target": "Chest"
+  },
+  {
+    "title": "Standing Calf Raises",
+    "target": "Calves"
+  },
+  {
+    "title": "Push-Ups - Close Triceps Position",
+    "target": "Triceps"
+  },
+  {
+    "title": "One-Arm Long Bar Row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Overhead cable curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Single-dumbbell front raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Incline cable chest fly",
+    "target": "Chest"
+  },
+  {
+    "title": "Single-leg depth squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Dumbbell suitcase crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Plate Twist",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Single-leg cable hip extension",
+    "target": "Glutes"
+  },
+  {
+    "title": "Weighted Jump Squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Squat with Chains",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Gorilla Chin/Crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Kneeling cable triceps extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Kneeling Cable Crunch With Alternating Oblique Twists",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Bicycling",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Arnold press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Weighted Crunches",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Single-arm cable triceps extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Barbell roll-out",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Kneeling cable crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Exercise Ball Pull-In",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Hanging leg raise",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Barbell Ab Rollout - On Knees",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Barbell Squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Decline barbell bench press",
+    "target": "Chest"
+  },
+  {
+    "title": "Dumbbell Bicep Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Dumbbell Goblet Squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Dumbbell squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Barbell front squat-",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Close-grip pull-down",
+    "target": "Lats"
+  },
+  {
+    "title": "Triceps Pushdown - Rope Attachment",
+    "target": "Triceps"
+  },
+  {
+    "title": "Side-to-side box skip",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Smith machine shoulder press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Seated triceps press",
+    "target": "Triceps"
+  },
+  {
+    "title": "Dumbbell Lying Supination",
+    "target": "Forearms"
+  },
+  {
+    "title": "Pull-up",
+    "target": "Lats"
+  },
+  {
+    "title": "Wide-grip bench press",
+    "target": "Chest"
+  },
+  {
+    "title": "Close-grip EZ-bar curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "T-Bar Row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Bent Over Two-Arm Long Bar Row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Muscle Up",
+    "target": "Lats"
+  },
+  {
+    "title": "Machine shoulder press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Incline EZ-bar skullcrusher",
+    "target": "Triceps"
+  },
+  {
+    "title": "Alternating sit-through with crunch",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Wide-Grip Decline Barbell Bench Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Rower",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Snatch Deadlift",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Front Plate Raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Decline Close-Grip Bench To Skull Crusher",
+    "target": "Triceps"
+  },
+  {
+    "title": "Lying Leg Curls",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Cross-body hammer curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Shotgun row",
+    "target": "Lats"
+  },
+  {
+    "title": "Ab Roller",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Reverse-grip incline dumbbell bench press",
+    "target": "Chest"
+  },
+  {
+    "title": "Leg Press",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Stiff-Legged Dumbbell Deadlift",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Cable Crossover",
+    "target": "Chest"
+  },
+  {
+    "title": "Barbell Incline Bench Press Medium-Grip",
+    "target": "Chest"
+  },
+  {
+    "title": "Incline Dumbbell Flyes",
+    "target": "Chest"
+  },
+  {
+    "title": "Seated Cable Rows",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Tricep Dumbbell Kickback",
+    "target": "Triceps"
+  },
+  {
+    "title": "Otis-Up",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Mountain climber",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Ab bicycle",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Barbell forward lunge",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "3/4 sit-up",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Exercise ball leg curl",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Glute bridge",
+    "target": "Glutes"
+  },
+  {
+    "title": "Close-Grip Front Lat Pulldown",
+    "target": "Lats"
+  },
+  {
+    "title": "Dip Machine",
+    "target": "Triceps"
+  },
+  {
+    "title": "Incline dumbbell row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Dumbbell Lunges",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Single-arm standing shoulder press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Preacher Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Reverse crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Elliptical trainer",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Bodyweight squat-",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Bent Over Two-Dumbbell Row With Palms In",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Hex-bar deadlift",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Narrow-stance leg press",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Single-leg glute bridge",
+    "target": "Glutes"
+  },
+  {
+    "title": "Barbell Curls Lying Against An Incline",
+    "target": "Biceps"
+  },
+  {
+    "title": "Standing Hip Circles",
+    "target": "Abductors"
+  },
+  {
+    "title": "Clam",
+    "target": "Abductors"
+  },
+  {
+    "title": "Narrow Stance Hack Squats",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Seated Close-Grip Concentration Barbell Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Dumbbell Lying Pronation",
+    "target": "Forearms"
+  },
+  {
+    "title": "Smith machine box squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Drop Push",
+    "target": "Chest"
+  },
+  {
+    "title": "Upside-down pull-up",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Reverse Barbell Preacher Curls",
+    "target": "Biceps"
+  },
+  {
+    "title": "Close-grip EZ-bar bench press",
+    "target": "Chest"
+  },
+  {
+    "title": "Incline Push-Up",
+    "target": "Chest"
+  },
+  {
+    "title": "Hyperextensions With No Hyperextension Bench",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Dumbbell front raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Parallel Bar Dip",
+    "target": "Triceps"
+  },
+  {
+    "title": "Stairmaster",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Double Leg Butt Kick",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Groiners",
+    "target": "Adductors"
+  },
+  {
+    "title": "Neck Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Broad jump",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Machine Squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "V-bar pull-up",
+    "target": "Lats"
+  },
+  {
+    "title": "Ring dip",
+    "target": "Triceps"
+  },
+  {
+    "title": "Standing One-Arm Cable Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Burpee",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Double-arm triceps kick-back",
+    "target": "Triceps"
+  },
+  {
+    "title": "Dumbbell reverse lunge",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Seated Calf Raise",
+    "target": "Calves"
+  },
+  {
+    "title": "Standing dumbbell shrug",
+    "target": "Traps"
+  },
+  {
+    "title": "Calf Press On The Leg Press Machine",
+    "target": "Calves"
+  },
+  {
+    "title": "Barbell step-up",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Feet-elevated bench dip",
+    "target": "Triceps"
+  },
+  {
+    "title": "Bent Over Barbell Row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Crunches",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Dumbbell Alternate Bicep Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Bent-over dumbbell rear delt row",
+    "target": "Shoulders"
+  },
+  {
+    "title": "External Rotation with Cable",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Handstand push-up",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Single-arm dumbbell preacher curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Step-up with knee raise",
+    "target": "Glutes"
+  },
+  {
+    "title": "Smith machine back squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Incline dumbbell front raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Alternate Incline Dumbbell Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Standing dumbbell upright row",
+    "target": "Traps"
+  },
+  {
+    "title": "Single-arm cable front raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Two-Arm Kettlebell Military Press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Incline cable chest press",
+    "target": "Chest"
+  },
+  {
+    "title": "Rope climb",
+    "target": "Lats"
+  },
+  {
+    "title": "Trail Running/Walking",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Standing Bradford press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Neutral-grip dumbbell bench press",
+    "target": "Chest"
+  },
+  {
+    "title": "Cable Chest Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Standing concentration curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Wide-Grip Rear Pull-Up",
+    "target": "Lats"
+  },
+  {
+    "title": "Kettlebell pass-through lunge",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Hands-elevated push-up",
+    "target": "Chest"
+  },
+  {
+    "title": "Deadlift with Bands",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Straight-arm rope pull-down",
+    "target": "Lats"
+  },
+  {
+    "title": "Barbell Shoulder Press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Power clean",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Hang Snatch",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Kettlebell sumo deadlift high pull",
+    "target": "Traps"
+  },
+  {
+    "title": "Calf-Machine Shoulder Shrug",
+    "target": "Traps"
+  },
+  {
+    "title": "Bench Press - Powerlifting",
+    "target": "Triceps"
+  },
+  {
+    "title": "Rocking Standing Calf Raise",
+    "target": "Calves"
+  },
+  {
+    "title": "Goblet Squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Behind-the-head skullcrusher",
+    "target": "Triceps"
+  },
+  {
+    "title": "Seated palms-up wrist curl",
+    "target": "Forearms"
+  },
+  {
+    "title": "Reverse Cable Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Dumbbell side bend",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Lat pull-down",
+    "target": "Lats"
+  },
+  {
+    "title": "Side Lateral Raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Alternating incline dumbbell biceps curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Kettlebell One-Legged Deadlift",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Alternate Hammer Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Decline Push-Up",
+    "target": "Chest"
+  },
+  {
+    "title": "Captain's chair knee raise",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Triceps Pushdown",
+    "target": "Triceps"
+  },
+  {
+    "title": "Low cable overhead triceps extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Single-arm cable cross-over",
+    "target": "Chest"
+  },
+  {
+    "title": "Seated dumbbell biceps curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Battle ropes",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Dead bug reach",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Deadlift with Chains",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Rope Crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Palms-Up Dumbbell Wrist Curl Over A Bench",
+    "target": "Forearms"
+  },
+  {
+    "title": "Kettlebell thruster",
+    "target": "Glutes"
+  },
+  {
+    "title": "Single-Arm Push-Up",
+    "target": "Chest"
+  },
+  {
+    "title": "Band Hip Adductions",
+    "target": "Adductors"
+  },
+  {
+    "title": "Single-arm kettlebell clean",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Preacher Hammer Dumbbell Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Alternating Kettlebell Press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Split Squat with Dumbbells",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Standing One-Arm Dumbbell Curl Over Incline Bench",
+    "target": "Biceps"
+  },
+  {
+    "title": "Standing Olympic Plate Hand Squeeze",
+    "target": "Forearms"
+  },
+  {
+    "title": "Sledgehammer swing",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Kneeling Squat",
+    "target": "Glutes"
+  },
+  {
+    "title": "Single-arm kettlebell snatch",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Close-grip barbell curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Box jump",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Standing cable crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Leverage Incline Chest Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Standing barbell overhead triceps extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Lying cable triceps extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Kettlebell Turkish Get-Up (Squat style)",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Crunch - Hands Overhead",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Cable Internal Rotation",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Leg Extensions",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Close push-up to wide push-up",
+    "target": "Chest"
+  },
+  {
+    "title": "Single-arm dumbbell triceps extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Butterfly",
+    "target": "Chest"
+  },
+  {
+    "title": "Decline dumbbell bench press",
+    "target": "Chest"
+  },
+  {
+    "title": "V-up",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Seated face pull",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Barbell Bulgarian split squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Reverse-grip lat pull-down",
+    "target": "Lats"
+  },
+  {
+    "title": "Standing Biceps Cable Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Single-arm cable seated row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Single-arm kettlebell row",
+    "target": "Chest"
+  },
+  {
+    "title": "Scissors Jump",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Wide Stance Stiff Legs",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Rack Pull with Bands",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Drag curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Hang Clean - Below the Knees",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Decline oblique crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Dumbbell external shoulder rotation",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Single-arm bent-over cable rear delt fly",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Clean",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Single-arm incline lateral raise-",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Decline bar press sit-up",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Barbell rear delt bent-over row",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Calf Press",
+    "target": "Calves"
+  },
+  {
+    "title": "Kettlebell alternating renegade row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Bosu Ball Cable Crunch With Side Bends",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Stomach Vacuum",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Hammer Grip Incline DB Bench Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Wide-grip hands-elevated push-up",
+    "target": "Chest"
+  },
+  {
+    "title": "Decline Dumbbell Triceps Extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Jumping jack-",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Push-Ups With Feet On An Exercise Ball",
+    "target": "Chest"
+  },
+  {
+    "title": "Seated cable shoulder press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Barbell hack squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Feet-elevated push-up",
+    "target": "Chest"
+  },
+  {
+    "title": "Good Morning",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Leverage Chest Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Gironda Sternum Chins",
+    "target": "Lats"
+  },
+  {
+    "title": "Exercise ball crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Seated rear delt fly",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Standing face pull",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Glute Ham Raise",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Russian twist",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Seated Flat Bench Leg Pull-In",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Barbell shrug",
+    "target": "Traps"
+  },
+  {
+    "title": "Standing cable rear delt row",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Flat Bench Lying Leg Raise",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Hack Squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Dumbbell skullcrusher",
+    "target": "Triceps"
+  },
+  {
+    "title": "Man-maker",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Pallof press",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Knees tucked crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Straight-arm dumbbell pull-over",
+    "target": "Chest"
+  },
+  {
+    "title": "Arms-crossed jump squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Decline Smith Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Band Skull Crusher",
+    "target": "Triceps"
+  },
+  {
+    "title": "Side Wrist Pull",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Isometric Wipers",
+    "target": "Chest"
+  },
+  {
+    "title": "Skating",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Cable cross-over",
+    "target": "Chest"
+  },
+  {
+    "title": "Treadmill running",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "One Arm Pronated Dumbbell Triceps Extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Single-arm kettlebell clean and jerk-",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Side To Side Chins",
+    "target": "Lats"
+  },
+  {
+    "title": "Incline Dumbbell Bench With Palms Facing In",
+    "target": "Chest"
+  },
+  {
+    "title": "Seated palms-down wrist curl-",
+    "target": "Forearms"
+  },
+  {
+    "title": "Standing leg swing",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Clock push-up",
+    "target": "Chest"
+  },
+  {
+    "title": "Machine seated row",
+    "target": "Lats"
+  },
+  {
+    "title": "Lying Face Up Plate Neck Resistance",
+    "target": "Neck"
+  },
+  {
+    "title": "Weighted sissy squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Jog In Place",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Dumbbell Raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Palms-Down Dumbbell Wrist Curl Over A Bench",
+    "target": "Forearms"
+  },
+  {
+    "title": "One Arm Supinated Dumbbell Triceps Extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Stationary bike",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Dumbbell bent-over row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Barbell thruster",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Flutter Kicks",
+    "target": "Glutes"
+  },
+  {
+    "title": "Dumbbell sumo squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Barbell upright row",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Superman",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Straight-Arm Pulldown",
+    "target": "Lats"
+  },
+  {
+    "title": "Barbell stiff-legged deadlift",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Standing One-Arm Dumbbell Triceps Extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Smith machine bench press",
+    "target": "Chest"
+  },
+  {
+    "title": "Seated Side Lateral Raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Dumbbell Lying Rear Lateral Raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Dumbbell preacher curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Front Raise And Pullover",
+    "target": "Chest"
+  },
+  {
+    "title": "Dumbbell seated box jump",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Middle Back Shrug",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Incline face-down bar front raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Butt-Ups",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Band Good Morning (Pull Through)",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Bodyweight Reverse Lunge",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Seated One-Arm Dumbbell Palms-Down Wrist Curl",
+    "target": "Forearms"
+  },
+  {
+    "title": "Glute Kickback",
+    "target": "Glutes"
+  },
+  {
+    "title": "Treadmill jogging",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Plate Pinch",
+    "target": "Forearms"
+  },
+  {
+    "title": "Yates Row Reverse Grip",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Linear Acceleration Wall Drill",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Reverse-grip bench press",
+    "target": "Triceps"
+  },
+  {
+    "title": "Leverage Decline Chest Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Chain Handle Extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Bench Press with Chains",
+    "target": "Triceps"
+  },
+  {
+    "title": "Bench barbell roll-out",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Incline Push-Up Depth Jump",
+    "target": "Chest"
+  },
+  {
+    "title": "Push-Up Wide",
+    "target": "Chest"
+  },
+  {
+    "title": "Exercise ball weighted hyperextension",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Barbell behind-the-back shrug",
+    "target": "Traps"
+  },
+  {
+    "title": "Lying Supine Dumbbell Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Internal Rotation with Band",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Machine Preacher Curls",
+    "target": "Biceps"
+  },
+  {
+    "title": "Bottoms-Up Clean From The Hang Position",
+    "target": "Forearms"
+  },
+  {
+    "title": "Single-arm kneeling lat pull-down",
+    "target": "Lats"
+  },
+  {
+    "title": "Floor Press",
+    "target": "Triceps"
+  },
+  {
+    "title": "Chest Push (multiple response)",
+    "target": "Chest"
+  },
+  {
+    "title": "Feet-elevated oblique crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Elevated Cable Rows",
+    "target": "Lats"
+  },
+  {
+    "title": "Incline Dumbbell Flyes - With A Twist",
+    "target": "Chest"
+  },
+  {
+    "title": "Cross Over - With Bands",
+    "target": "Chest"
+  },
+  {
+    "title": "Dumbbell iron cross squat",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Split Jerk",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Standing Low-Pulley Deltoid Raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Cobra Triceps Extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Advanced Kettlebell Windmill",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Rack pull",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Dumbbell step-up",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Smith machine inverted row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Bent-arm dumbbell pull-over",
+    "target": "Chest"
+  },
+  {
+    "title": "Reverse-grip barbell curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Standing Cable Wood Chop",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Band Pull Apart",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Cable rope hammer curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Standing crossed-cable rear delt fly",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Kettlebell Turkish Get-Up (Lunge style)",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Reverse Machine Flyes",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Single-leg kettlebell deadlift",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Machine chest press",
+    "target": "Chest"
+  },
+  {
+    "title": "Supine Chest Throw",
+    "target": "Triceps"
+  },
+  {
+    "title": "Push-jerk",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "One-Arm Kettlebell Row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Mixed Grip Chin",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Bradford/Rocky Presses",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Incline anti-gravity shoulder press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Alien Squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Barbell back squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Neutral-grip pull-up",
+    "target": "Lats"
+  },
+  {
+    "title": "Bodyweight triceps press",
+    "target": "Triceps"
+  },
+  {
+    "title": "Cable reverse crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Cable Hip Adduction",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Butt Kicks",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Machine-assisted pull-up",
+    "target": "Lats"
+  },
+  {
+    "title": "Standing Cable Chest Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Lying cable biceps curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Seated Back Extension",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Low Cable Triceps Extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Iliotibial band SMR",
+    "target": "Abductors"
+  },
+  {
+    "title": "Head-on-bench dumbbell rear delt raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Pendlay Row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Dumbbell Clean",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Lying rear delt fly",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Seated Bent-Over Two-Arm Dumbbell Triceps Extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Recumbent Bike",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Thigh abductor",
+    "target": "Abductors"
+  },
+  {
+    "title": "Standing barbell calf raise",
+    "target": "Calves"
+  },
+  {
+    "title": "Treadmill walking",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Romanian Deadlift",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Box Jump (Multiple Response)",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Bent-knee reverse crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Cable overhead triceps extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Smith machine bent-over row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Knee Tuck Jump",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Cable straight-bar upright row",
+    "target": "Traps"
+  },
+  {
+    "title": "Seated Good Mornings",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Close-grip dumbbell bench press",
+    "target": "Chest"
+  },
+  {
+    "title": "Zercher squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Full Range-Of-Motion Lat Pulldown",
+    "target": "Lats"
+  },
+  {
+    "title": "Cable Shoulder Press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Cable Russian Twists",
+    "target": "Abdominals"
+  },
+  {
+    "title": "EZ-bar skullcrusher-",
+    "target": "Triceps"
+  },
+  {
+    "title": "Stiff Leg Barbell Good Morning",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Standing Dumbbell Reverse Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Lying Close-Grip Barbell Triceps Press To Chin",
+    "target": "Triceps"
+  },
+  {
+    "title": "Tate Press",
+    "target": "Triceps"
+  },
+  {
+    "title": "Back Flyes - With Bands",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Ab Crunch Machine",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Alternating heel-touch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Wall ball toss",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Smith Machine Incline Bench Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Machine Shoulder (Military) Press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Fire Hydrant",
+    "target": "Abductors"
+  },
+  {
+    "title": "Cuban press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Reverse Flyes With External Rotation",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Hanging wind sprint",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Windmills",
+    "target": "Abductors"
+  },
+  {
+    "title": "Bent-arm barbell pull-over",
+    "target": "Lats"
+  },
+  {
+    "title": "Sphinx push-up",
+    "target": "Chest"
+  },
+  {
+    "title": "Smith Machine Close-Grip Bench Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Palms-out incline biceps curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Rocket Jump",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Yoke Walk",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Romanian Deadlift with Kettlebell",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Smith machine leg press",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Jefferson Squats",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Single-arm low cable triceps extension-",
+    "target": "Triceps"
+  },
+  {
+    "title": "Smith machine straight-legged hip raise",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Reverse Hyperextension",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Jerk Dip Squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Kettlebell plyo push-up",
+    "target": "Chest"
+  },
+  {
+    "title": "Weighted Sit-Ups - With Bands",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Depth jump box jump",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Bodyweight Walking Lunge",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Lying Machine Squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Seated Leg Curl",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Standing Barbell Press Behind Neck",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Close-Grip EZ-Bar Curl with Band",
+    "target": "Biceps"
+  },
+  {
+    "title": "Alternating Kettlebell Row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Single-arm side lying rear fly",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Cable shrug",
+    "target": "Traps"
+  },
+  {
+    "title": "Pallof press with rotation",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Lying T-Bar Row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Band Good Morning",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Kneeling lat pull-down",
+    "target": "Lats"
+  },
+  {
+    "title": "Standing Bent-Over One-Arm Dumbbell Triceps Extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Overhead squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Pistol squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Single-Leg Leg Extension",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Lateral Raise - With Bands",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Leverage High Row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Medicine ball slam",
+    "target": "Lats"
+  },
+  {
+    "title": "Single-arm dumbbell upright row",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Smith machine behind-the-back shrug",
+    "target": "Traps"
+  },
+  {
+    "title": "Leg-Up Hamstring Stretch",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Walking High Knees",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Kettlebell pirate ship",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Dumbbell Scaption",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Cable Wrist Curl",
+    "target": "Forearms"
+  },
+  {
+    "title": "Upright Row - With Bands",
+    "target": "Traps"
+  },
+  {
+    "title": "Suspended Reverse Crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Lateral lunge",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Close-Hands Push-Up",
+    "target": "Chest"
+  },
+  {
+    "title": "Exercise ball hip thrust",
+    "target": "Glutes"
+  },
+  {
+    "title": "Barbell side split squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "See-Saw Press (Alternating Side Press)",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Sumo Deadlift with Chains",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Frog Sit-Ups",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Kettlebell Windmill",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Seated Leg Press",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Straight-arm plank with biceps curl-",
+    "target": "Biceps"
+  },
+  {
+    "title": "Cable Deadlifts",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Board bench press",
+    "target": "Chest"
+  },
+  {
+    "title": "Frankenstein Squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Cable Seated Crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Kettlebell Figure 8",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Kettlebell Curtsy Lunge",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Single Leg Butt Kick",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Lying bench reverse crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Side Leg Raises",
+    "target": "Adductors"
+  },
+  {
+    "title": "Smith machine Bulgarian split squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Barbell speed squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Circus Bell",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Suspended row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Incline Bench Pull",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Around The Worlds",
+    "target": "Chest"
+  },
+  {
+    "title": "Tiger-bend push-up",
+    "target": "Chest"
+  },
+  {
+    "title": "Face-down incline dumbbell biceps curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Kneeling Jump Squat",
+    "target": "Glutes"
+  },
+  {
+    "title": "Jump Squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Seated Head Harness Neck Resistance",
+    "target": "Neck"
+  },
+  {
+    "title": "Shoulder Press - With Bands",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Band-assisted pull-up",
+    "target": "Lats"
+  },
+  {
+    "title": "Barbell Bench Press-Wide Grip",
+    "target": "Chest"
+  },
+  {
+    "title": "Barbell Seated Calf Raise",
+    "target": "Calves"
+  },
+  {
+    "title": "Over bench jump",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Single-arm side deadlift",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Sit-up",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Side Bridge",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Two-Arm Kettlebell Clean",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Zottman Preacher Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Balance Board",
+    "target": "Calves"
+  },
+  {
+    "title": "Split Jump",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Plyo push-up",
+    "target": "Chest"
+  },
+  {
+    "title": "Inchworm-",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Cable rope preacher hammer curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Vertical Swing",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Seated Bent-Over One-Arm Dumbbell Triceps Extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Double Kettlebell Push Press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Lying oblique crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Barbell front raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Weighted donkey calf raise",
+    "target": "Calves"
+  },
+  {
+    "title": "Machine Triceps Extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Janda Sit-Up",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Sled push-",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Seated Dumbbell Inner Biceps Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Close-grip hands-elevated push-up",
+    "target": "Chest"
+  },
+  {
+    "title": "Barbell Squat To A Bench",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Dumbbell Incline Shoulder Raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Standing Inner-Biceps Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Single-arm kettlebell swing",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Pull Through",
+    "target": "Glutes"
+  },
+  {
+    "title": "Leg Pull-In",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Standing Leg Curl",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Isometric Neck Exercise - Sides",
+    "target": "Neck"
+  },
+  {
+    "title": "Lying cable chest fly",
+    "target": "Chest"
+  },
+  {
+    "title": "Single-arm pull-down",
+    "target": "Lats"
+  },
+  {
+    "title": "Side Jackknife",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Dumbbell Walking Lunge",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Lateral hop-",
+    "target": "Adductors"
+  },
+  {
+    "title": "Suspended push-up",
+    "target": "Chest"
+  },
+  {
+    "title": "Two-Arm Kettlebell Row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "One Arm Floor Press",
+    "target": "Triceps"
+  },
+  {
+    "title": "Kettlebell Pass Between The Legs",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Wide-Grip Decline Barbell Pullover",
+    "target": "Chest"
+  },
+  {
+    "title": "Feet-elevated crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Smith machine upright row",
+    "target": "Traps"
+  },
+  {
+    "title": "Smith Machine Decline Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Smith Machine Reverse Calf Raises",
+    "target": "Calves"
+  },
+  {
+    "title": "Moving Claw Series",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Single-dumbbell push-up",
+    "target": "Chest"
+  },
+  {
+    "title": "Front Cone Hops (or hurdle hops)",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Overhead bar front raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Single-arm Smith machine upright row",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Weighted Squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Dumbbell Seated One-Leg Calf Raise",
+    "target": "Calves"
+  },
+  {
+    "title": "Cable Incline Pushdown",
+    "target": "Lats"
+  },
+  {
+    "title": "Hip Extension with Bands",
+    "target": "Glutes"
+  },
+  {
+    "title": "Kipping Muscle Up",
+    "target": "Lats"
+  },
+  {
+    "title": "Machine Lateral Raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Ankle Circles",
+    "target": "Calves"
+  },
+  {
+    "title": "Reverse Plate Curls",
+    "target": "Biceps"
+  },
+  {
+    "title": "Clean Pull",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Push Up to Side Plank",
+    "target": "Chest"
+  },
+  {
+    "title": "Lying Close-Grip Bar Curl On High Pulley",
+    "target": "Biceps"
+  },
+  {
+    "title": "Behind-the-neck pull-down",
+    "target": "Lats"
+  },
+  {
+    "title": "Isometric Chest Squeezes",
+    "target": "Chest"
+  },
+  {
+    "title": "Seated leg tuck",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Standing Biceps Stretch",
+    "target": "Biceps"
+  },
+  {
+    "title": "Incline cable straight-bar triceps extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Groin and Back Stretch",
+    "target": "Adductors"
+  },
+  {
+    "title": "Bench skip",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Scissor Kick",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Smith machine pistol squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Wide-Stance Leg Press",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Dumbbell Squat To A Bench",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Kettlebell Seated Press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Floor rope climb",
+    "target": "Lats"
+  },
+  {
+    "title": "Smith machine stiff-legged deadlift",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Single-arm kettlebell overhead squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Barbell Side Bend",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Double Kettlebell Jerk",
+    "target": "Shoulders"
+  },
+  {
+    "title": "90-degree jump squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Pin Presses",
+    "target": "Triceps"
+  },
+  {
+    "title": "Backward Drag",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Toe Touchers",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Alternate Leg Diagonal Bound",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Landmine Linear Jammer",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Sled Push",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Clean Shrug",
+    "target": "Traps"
+  },
+  {
+    "title": "Backward Medicine Ball Throw",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Kettlebell Arnold Press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Barbell squat with plate slide",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Monster Walk",
+    "target": "Abductors"
+  },
+  {
+    "title": "Upward Stretch",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Barbell Guillotine Bench Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Standing Toe Touches",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Shoulder Circles",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Lying groin stretch with band",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Standing Hamstring and Calf Stretch",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Side-to-side push-up",
+    "target": "Chest"
+  },
+  {
+    "title": "Piriformis SMR",
+    "target": "Glutes"
+  },
+  {
+    "title": "Scapular Pull-Up",
+    "target": "Traps"
+  },
+  {
+    "title": "Cable Seated Lateral Raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Lower Back Curl",
+    "target": "Abdominals"
+  },
+  {
+    "title": "One-Arm Flat Bench Dumbbell Flye",
+    "target": "Chest"
+  },
+  {
+    "title": "Suspended split squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Incline barbell shoulder protraction",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Behind-the-head push-press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Straight Bar Bench Mid Rows",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Standing hip extension",
+    "target": "Glutes"
+  },
+  {
+    "title": "Standing Towel Triceps Extension",
+    "target": "Triceps"
+  },
+  {
+    "title": "Weighted Ball Side Bend",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Isometric Neck Exercise - Front And Back",
+    "target": "Neck"
+  },
+  {
+    "title": "Atlas Stone Trainer",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Peroneals-SMR",
+    "target": "Calves"
+  },
+  {
+    "title": "Inverted Row with Straps",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Extended Range One-Arm Kettlebell Floor Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Bent Press",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Lying Hamstring",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Knee Circles",
+    "target": "Calves"
+  },
+  {
+    "title": "Dumbbell Tricep Extension -Pronated Grip",
+    "target": "Triceps"
+  },
+  {
+    "title": "One Arm Chin-Up",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Intermediate Hip Flexor and Quad Stretch",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Snatch Shrug",
+    "target": "Traps"
+  },
+  {
+    "title": "Seated Dumbbell Palms-Up Wrist Curl",
+    "target": "Forearms"
+  },
+  {
+    "title": "Barbell seal row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Sit Squats",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Crucifix",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Calf SMR",
+    "target": "Calves"
+  },
+  {
+    "title": "Kettlebell alternating floor press",
+    "target": "Chest"
+  },
+  {
+    "title": "Hip Lift with Band",
+    "target": "Glutes"
+  },
+  {
+    "title": "Forward Drag with Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Medicine Ball Chest Pass",
+    "target": "Chest"
+  },
+  {
+    "title": "Lying hamstring stretch with band",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Cross-body shoulder stretch",
+    "target": "Shoulders"
+  },
+  {
+    "title": "One Arm Against Wall",
+    "target": "Lats"
+  },
+  {
+    "title": "Catch and Overhead Throw",
+    "target": "Lats"
+  },
+  {
+    "title": "Smith Machine Hang Power Clean",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Lying High Bench Barbell Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Squats - With Bands",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Dynamic chest stretch",
+    "target": "Chest"
+  },
+  {
+    "title": "Rhomboids SMR",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Chain Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Standing Gastrocnemius Calf Stretch",
+    "target": "Calves"
+  },
+  {
+    "title": "Skip",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Hamstring-SMR",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Bench Press - With Bands",
+    "target": "Chest"
+  },
+  {
+    "title": "Tricep Side Stretch",
+    "target": "Triceps"
+  },
+  {
+    "title": "Kneeling hip flexor stretch",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Hug A Ball",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Quadriceps SMR",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Upper Back-Leg Grab",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Dancer's Stretch",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Elbow Circles",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Wall calf stretch",
+    "target": "Calves"
+  },
+  {
+    "title": "Spinal Stretch",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Front Barbell Squat To A Bench",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Anterior Tibialis-SMR",
+    "target": "Calves"
+  },
+  {
+    "title": "Child's pose-",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Kettlebell Dead Clean",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Partner farmer's walk",
+    "target": "Forearms"
+  },
+  {
+    "title": "Seated Hamstring",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Bar shoulder extension stretch",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Kneeling Forearm Stretch",
+    "target": "Forearms"
+  },
+  {
+    "title": "Iron Crosses (stretch)",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Seated Floor Hamstring Stretch",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Arm circle",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Pelvic Tilt Into Bridge",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Seated Biceps",
+    "target": "Biceps"
+  },
+  {
+    "title": "90/90 Hamstring",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "All Fours Quad Stretch",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Cable Judo Flip",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Exercise ball torso rotation",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Lying quad stretch with band",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Cat Stretch",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Calf Stretch Elbows Against Wall",
+    "target": "Calves"
+  },
+  {
+    "title": "Behind Head Chest Stretch",
+    "target": "Chest"
+  },
+  {
+    "title": "Alternating Hang Clean",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Calf Raises - With Bands",
+    "target": "Calves"
+  },
+  {
+    "title": "Calf Raise On A Dumbbell",
+    "target": "Calves"
+  },
+  {
+    "title": "Lying glute stretch",
+    "target": "Glutes"
+  },
+  {
+    "title": "Triceps Stretch",
+    "target": "Triceps"
+  },
+  {
+    "title": "Side Neck Stretch",
+    "target": "Neck"
+  },
+  {
+    "title": "Elbows Back",
+    "target": "Chest"
+  },
+  {
+    "title": "Dynamic Back Stretch",
+    "target": "Lats"
+  },
+  {
+    "title": "Seated bar twist",
+    "target": "Abdominals"
+  },
+  {
+    "title": "One Half Locust",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Latissimus dorsi SMR",
+    "target": "Lats"
+  },
+  {
+    "title": "Seated Overhead Stretch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Seated Front Deltoid",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Lower back SMR",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Hug Knees To Chest",
+    "target": "Lower Back"
+  },
+  {
+    "title": "World's greatest stretch",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Standing Hip Flexors",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "The Straddle",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Looking At Ceiling",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Standing Soleus And Achilles Stretch",
+    "target": "Calves"
+  },
+  {
+    "title": "Upper Back Stretch",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Alternating lunge jump",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Chair Upper Body Stretch",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Seated Calf Stretch",
+    "target": "Calves"
+  },
+  {
+    "title": "Shoulder Raise",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Downward Facing Balance",
+    "target": "Glutes"
+  },
+  {
+    "title": "Kneeling Arm Drill",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Adductor SMR",
+    "target": "Adductors"
+  },
+  {
+    "title": "Crossover Reverse Lunge",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Overhead Stretch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Frog Hops",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Side Lying Groin Stretch",
+    "target": "Adductors"
+  },
+  {
+    "title": "Chin To Chest Stretch",
+    "target": "Neck"
+  },
+  {
+    "title": "Middle Back Stretch",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Runner's Stretch",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "One Handed Hang",
+    "target": "Lats"
+  },
+  {
+    "title": "Exercise ball chest stretch",
+    "target": "Chest"
+  },
+  {
+    "title": "Adductor/Groin",
+    "target": "Adductors"
+  },
+  {
+    "title": "Knee Across The Body",
+    "target": "Glutes"
+  },
+  {
+    "title": "Rear Leg Raises",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Medicine ball scoop throw",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Overhead Triceps",
+    "target": "Triceps"
+  },
+  {
+    "title": "Peroneals Stretch",
+    "target": "Calves"
+  },
+  {
+    "title": "On Your Side Quad Stretch",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "On-Your-Back Quad Stretch",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Chair Lower Back Stretch",
+    "target": "Lats"
+  },
+  {
+    "title": "Standing side bend stretch",
+    "target": "Lats"
+  },
+  {
+    "title": "Brachialis SMR",
+    "target": "Biceps"
+  },
+  {
+    "title": "Seated Glute",
+    "target": "Glutes"
+  },
+  {
+    "title": "Standing Pelvic Tilt",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Double-kettlebell windmill",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Lying Glute",
+    "target": "Glutes"
+  },
+  {
+    "title": "Pass-through stretch with band",
+    "target": "Chest"
+  },
+  {
+    "title": "Lying Bent Leg Groin",
+    "target": "Adductors"
+  },
+  {
+    "title": "Neck-SMR",
+    "target": "Neck"
+  },
+  {
+    "title": "Foot-SMR",
+    "target": "Calves"
+  },
+  {
+    "title": "One Knee To Chest",
+    "target": "Glutes"
+  },
+  {
+    "title": "Standing Elevated Quad Stretch",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Wrist Circles",
+    "target": "Forearms"
+  },
+  {
+    "title": "Chair Leg Extended Stretch",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "IT Band and Glute Stretch",
+    "target": "Abductors"
+  },
+  {
+    "title": "Single-leg lying cross-over stretch",
+    "target": "Abductors"
+  },
+  {
+    "title": "Side-Lying Floor Stretch",
+    "target": "Lats"
+  },
+  {
+    "title": "Posterior Tibialis Stretch",
+    "target": "Calves"
+  },
+  {
+    "title": "Overhead Lat",
+    "target": "Lats"
+  },
+  {
+    "title": "Pyramid",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Sled Drag - Harness",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Burpee over barbell",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Medicine ball rotational throw",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Medicine ball sprawl to chest press",
+    "target": "Chest"
+  },
+  {
+    "title": "Bosu Ball Crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Dumbbell Overhead Squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Front Squat Push Press",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Single-arm half-kneeling shoulder press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Hand Stand Push-Up",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Weighted Push-Up",
+    "target": "Chest"
+  },
+  {
+    "title": "Wall walk",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Dumbbell walking lunge-",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Suitcase crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Seated Scissor Kick",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Sled Reverse Flye",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Dumbbell thruster",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Thigh killa",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Sumo Deadlift with Bands",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Partner Facing Feet-Elevated Side Plank With Band Row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Barbell reverse lunge",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "One-Arm Kettlebell Floor Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Prone Manual Hamstring",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Suspended Leg Curl",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Single-Leg Box Jump",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Hollow-hold ball toss",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Southpaw sprawl",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Conan's Wheel",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "JM Press With Bands",
+    "target": "Triceps"
+  },
+  {
+    "title": "Kettlebell side squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Single-Leg Hop Progression",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Partner resistance standing twist-",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Rickshaw Deadlift",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Burpee to pull-up",
+    "target": "Lats"
+  },
+  {
+    "title": "Return Push from Stance",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Barbell pull-over to press",
+    "target": "Lats"
+  },
+  {
+    "title": "Stride Jump Crossover",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Typewriter push-up",
+    "target": "Chest"
+  },
+  {
+    "title": "Feet Jack",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Wall shoulder tap",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Rack Delivery",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Cross Crunch",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Dumbbell suitcase carry",
+    "target": "Forearms"
+  },
+  {
+    "title": "Dumbbell front squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Carioca quick step",
+    "target": "Adductors"
+  },
+  {
+    "title": "Split Clean",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Single-cone sprint drill",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Heavy Bag Thrust",
+    "target": "Chest"
+  },
+  {
+    "title": "Diamond push-up",
+    "target": "Chest"
+  },
+  {
+    "title": "Single-Leg Stride Jump",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Side Standing Long Jump",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Dumbbell lateral hop to sprint-",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Plate shoulder circle big to small",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Close-stance dumbbell front squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "One-Arm Kettlebell Split Snatch",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Front Squat (Clean Grip)",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Wall squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Suspended Curl",
+    "target": "Biceps"
+  },
+  {
+    "title": "Hip Flexion with Band",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Reverse Band Deadlift",
+    "target": "Lower Back"
+  },
+  {
+    "title": "Sled Row",
+    "target": "Middle Back"
+  },
+  {
+    "title": "Leg-Over Floor Press",
+    "target": "Chest"
+  },
+  {
+    "title": "Full Moon",
+    "target": "Abdominals"
+  },
+  {
+    "title": "Good Morning off Pins",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Barbell front squat to back squat",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Slide Jump Shot",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Sprawl frog kick",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "One-Arm Kettlebell Para Press",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Bear crawl shoulder tap",
+    "target": "Shoulders"
+  },
+  {
+    "title": "Lateral Speed Step",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "Squat Jerk",
+    "target": "Quadriceps"
+  },
+  {
+    "title": "One-Arm Open Palm Kettlebell Clean",
+    "target": "Hamstrings"
+  },
+  {
+    "title": "Barbell Front-To-Back Squat",
+    "target": "Quadriceps"
+  }
+]

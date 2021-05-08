@@ -1,0 +1,702 @@
+[
+  {
+    "Title": "Evezés csigán állva",
+    "MuscleGroup": "Csuklyás izom"
+  },
+  {
+    "Title": "Evezés súlyzóval beforgatással",
+    "MuscleGroup": "Csuklyás izom"
+  },
+  {
+    "Title": "Nyakhoz húzás széles fogással",
+    "MuscleGroup": "Csuklyás izom"
+  },
+  {
+    "Title": "Vállvonogatás",
+    "MuscleGroup": "Csuklyás izom"
+  },
+  {
+    "Title": "Arnold nyomás",
+    "MuscleGroup": "Elülső deltaizom"
+  },
+  {
+    "Title": "Előre emelés csigán",
+    "MuscleGroup": "Elülső deltaizom"
+  },
+  {
+    "Title": "Előre emelés kézisúlyzóval",
+    "MuscleGroup": "Elülső deltaizom"
+  },
+  {
+    "Title": "Előre emelés súlyzóval, páros karral",
+    "MuscleGroup": "Elülső deltaizom"
+  },
+  {
+    "Title": "Mellről nyomás keretben",
+    "MuscleGroup": "Elülső deltaizom"
+  },
+  {
+    "Title": "Mellről nyomás rúddal állva",
+    "MuscleGroup": "Elülső deltaizom"
+  },
+  {
+    "Title": "Mellről nyomás ülve",
+    "MuscleGroup": "Elülső deltaizom"
+  },
+  {
+    "Title": "Oldalemelés állva",
+    "MuscleGroup": "Elülső deltaizom"
+  },
+  {
+    "Title": "Oldalemelés ülve 1.",
+    "MuscleGroup": "Elülső deltaizom"
+  },
+  {
+    "Title": "Oldalemelés ülve 2.",
+    "MuscleGroup": "Elülső deltaizom"
+  },
+  {
+    "Title": "Vállból nyomás gépen",
+    "MuscleGroup": "Elülső deltaizom"
+  },
+  {
+    "Title": "Állig húzás franciarúddal",
+    "MuscleGroup": "Oldalsó deltaizom"
+  },
+  {
+    "Title": "Állig húzás súlyzóval",
+    "MuscleGroup": "Oldalsó deltaizom"
+  },
+  {
+    "Title": "Arnold nyomás",
+    "MuscleGroup": "Oldalsó deltaizom"
+  },
+  {
+    "Title": "Egy karos oldalemelés csigán",
+    "MuscleGroup": "Oldalsó deltaizom"
+  },
+  {
+    "Title": "Előre emelés csigán",
+    "MuscleGroup": "Oldalsó deltaizom"
+  },
+  {
+    "Title": "Előre emelés súlyzóval, páros karral",
+    "MuscleGroup": "Oldalsó deltaizom"
+  },
+  {
+    "Title": "Kitörés karemeléssel magas tartásba",
+    "MuscleGroup": "Oldalsó deltaizom"
+  },
+  {
+    "Title": "Mellről nyomás keretben",
+    "MuscleGroup": "Oldalsó deltaizom"
+  },
+  {
+    "Title": "Mellről nyomás rúddal állva",
+    "MuscleGroup": "Oldalsó deltaizom"
+  },
+  {
+    "Title": "Mellről nyomás ülve",
+    "MuscleGroup": "Oldalsó deltaizom"
+  },
+  {
+    "Title": "Nyakból nyomás ülve",
+    "MuscleGroup": "Oldalsó deltaizom"
+  },
+  {
+    "Title": "Oldalemelés állva",
+    "MuscleGroup": "Oldalsó deltaizom"
+  },
+  {
+    "Title": "Oldalemelés ülve 1.",
+    "MuscleGroup": "Oldalsó deltaizom"
+  },
+  {
+    "Title": "Oldalemelés ülve 2.",
+    "MuscleGroup": "Oldalsó deltaizom"
+  },
+  {
+    "Title": "Vállból nyomás állva rúddal",
+    "MuscleGroup": "Oldalsó deltaizom"
+  },
+  {
+    "Title": "Vállból nyomás gépen",
+    "MuscleGroup": "Oldalsó deltaizom"
+  },
+  {
+    "Title": "Vállból nyomás ülve súlyzóval",
+    "MuscleGroup": "Oldalsó deltaizom"
+  },
+  {
+    "Title": "Döntött törzsű oldalemelés állva",
+    "MuscleGroup": "Hátsó deltaizom"
+  },
+  {
+    "Title": "Döntött törzsű oldalemelés csigán",
+    "MuscleGroup": "Hátsó deltaizom"
+  },
+  {
+    "Title": "Döntött törzsű oldalemelés csigán páros karral",
+    "MuscleGroup": "Hátsó deltaizom"
+  },
+  {
+    "Title": "Döntött törzsű oldalemelés melltámasszal",
+    "MuscleGroup": "Hátsó deltaizom"
+  },
+  {
+    "Title": "Döntött törzsű oldalemelés ülve",
+    "MuscleGroup": "Hátsó deltaizom"
+  },
+  {
+    "Title": "Evezés csigán állva",
+    "MuscleGroup": "Hátsó deltaizom"
+  },
+  {
+    "Title": "Oldalemelés állva",
+    "MuscleGroup": "Hátsó deltaizom"
+  },
+  {
+    "Title": "Oldalemelés ülve 1.",
+    "MuscleGroup": "Hátsó deltaizom"
+  },
+  {
+    "Title": "Oldalemelés ülve 2.",
+    "MuscleGroup": "Hátsó deltaizom"
+  },
+  {
+    "Title": "Rotáció csigán",
+    "MuscleGroup": "Hátsó deltaizom"
+  },
+  {
+    "Title": "Fekvenyomás döntött padon",
+    "MuscleGroup": "Mellizom felső része"
+  },
+  {
+    "Title": "Fekvenyomás keretben döntött padon",
+    "MuscleGroup": "Mellizom felső része"
+  },
+  {
+    "Title": "Tárogatás ferde padon",
+    "MuscleGroup": "Mellizom felső része"
+  },
+  {
+    "Title": "Áthúzás",
+    "MuscleGroup": "Mellizom"
+  },
+  {
+    "Title": "Csigás keresztbe húzás",
+    "MuscleGroup": "Mellizom"
+  },
+  {
+    "Title": "Csigás összehúzás lefelé",
+    "MuscleGroup": "Mellizom"
+  },
+  {
+    "Title": "Fekvenyomás kézi súlyzóval",
+    "MuscleGroup": "Mellizom"
+  },
+  {
+    "Title": "Fekvenyomás negatív padon",
+    "MuscleGroup": "Mellizom"
+  },
+  {
+    "Title": "Fekvenyomás vízszintes padon",
+    "MuscleGroup": "Mellizom"
+  },
+  {
+    "Title": "Nyomás döntött padon kézisúlyzóval",
+    "MuscleGroup": "Mellizom"
+  },
+  {
+    "Title": "Nyomás gépen",
+    "MuscleGroup": "Mellizom"
+  },
+  {
+    "Title": "Nyomás kézisúlyzóval negatív padon",
+    "MuscleGroup": "Mellizom"
+  },
+  {
+    "Title": "Szűk nyomás",
+    "MuscleGroup": "Mellizom"
+  },
+  {
+    "Title": "Tárogatás egyenes padon",
+    "MuscleGroup": "Mellizom"
+  },
+  {
+    "Title": "Tárogatás ülve gépen",
+    "MuscleGroup": "Mellizom"
+  },
+  {
+    "Title": "Bicepsz állva rúddal",
+    "MuscleGroup": "Bicepsz"
+  },
+  {
+    "Title": "Bicepsz állva súlyzóval",
+    "MuscleGroup": "Bicepsz"
+  },
+  {
+    "Title": "Bicepsz alsócsigán kötéllel",
+    "MuscleGroup": "Bicepsz"
+  },
+  {
+    "Title": "Bicepsz beforgatással",
+    "MuscleGroup": "Bicepsz"
+  },
+  {
+    "Title": "Bicepsz francia rúddal",
+    "MuscleGroup": "Bicepsz"
+  },
+  {
+    "Title": "Bicepsz Scott padon egyenes rúddal",
+    "MuscleGroup": "Bicepsz"
+  },
+  {
+    "Title": "Bicepsz Scott padon francia rúddal",
+    "MuscleGroup": "Bicepsz"
+  },
+  {
+    "Title": "Egykaros bicepsz alsócsigán",
+    "MuscleGroup": "Bicepsz"
+  },
+  {
+    "Title": "Kalapács bicepsz",
+    "MuscleGroup": "Bicepsz"
+  },
+  {
+    "Title": "Kétkaros bicepsz alsócsigán",
+    "MuscleGroup": "Bicepsz"
+  },
+  {
+    "Title": "Koncentrált bicepsz",
+    "MuscleGroup": "Bicepsz"
+  },
+  {
+    "Title": "Páros bicepsz csigán",
+    "MuscleGroup": "Bicepsz"
+  },
+  {
+    "Title": "Bicepsz alsócsigán kötéllel",
+    "MuscleGroup": "Karizom"
+  },
+  {
+    "Title": "Bicepsz beforgatással",
+    "MuscleGroup": "Karizom"
+  },
+  {
+    "Title": "Kalapács bicepsz",
+    "MuscleGroup": "Karizom"
+  },
+  {
+    "Title": "Csigás letolás egyenes rúddal",
+    "MuscleGroup": "Tricepsz"
+  },
+  {
+    "Title": "Csigás letolás kötéllel",
+    "MuscleGroup": "Tricepsz"
+  },
+  {
+    "Title": "Egykaros tricepsz kötéllel",
+    "MuscleGroup": "Tricepsz"
+  },
+  {
+    "Title": "Karnyújtás fej mögött",
+    "MuscleGroup": "Tricepsz"
+  },
+  {
+    "Title": "Karnyújtás fekve törzs előtt",
+    "MuscleGroup": "Tricepsz"
+  },
+  {
+    "Title": "Karnyújtás kötéllel fej felett 1.",
+    "MuscleGroup": "Tricepsz"
+  },
+  {
+    "Title": "Karnyújtás kötéllel fej felett 2.",
+    "MuscleGroup": "Tricepsz"
+  },
+  {
+    "Title": "Lórúgás",
+    "MuscleGroup": "Tricepsz"
+  },
+  {
+    "Title": "Szűk nyomás",
+    "MuscleGroup": "Tricepsz"
+  },
+  {
+    "Title": "Tolódzkodás",
+    "MuscleGroup": "Tricepsz"
+  },
+  {
+    "Title": "Tolódzkodás két pad közt",
+    "MuscleGroup": "Tricepsz"
+  },
+  {
+    "Title": "Fekvő hasprés gép",
+    "MuscleGroup": "Egyenes hasizom felso része"
+  },
+  {
+    "Title": "Felülés hasizom Római padon",
+    "MuscleGroup": "Egyenes hasizom felso része"
+  },
+  {
+    "Title": "Hasprés 1.",
+    "MuscleGroup": "Egyenes hasizom felso része"
+  },
+  {
+    "Title": "Hasprés 2.",
+    "MuscleGroup": "Egyenes hasizom felso része"
+  },
+  {
+    "Title": "Hasprés 3.",
+    "MuscleGroup": "Egyenes hasizom felso része"
+  },
+  {
+    "Title": "Hasprés lábváltással oldalra",
+    "MuscleGroup": "Egyenes hasizom felso része"
+  },
+  {
+    "Title": "Hasprés megemelt lábbal",
+    "MuscleGroup": "Egyenes hasizom felso része"
+  },
+  {
+    "Title": "Lebegőülés",
+    "MuscleGroup": "Egyenes hasizom felso része"
+  },
+  {
+    "Title": "Ülő hasprés gép",
+    "MuscleGroup": "Egyenes hasizom felso része"
+  },
+  {
+    "Title": "Fekvő hasprés gép",
+    "MuscleGroup": "Egyenes hasizom alsó része"
+  },
+  {
+    "Title": "Felülés hasizom Római padon",
+    "MuscleGroup": "Egyenes hasizom alsó része"
+  },
+  {
+    "Title": "Hasprés lábváltással oldalra",
+    "MuscleGroup": "Egyenes hasizom alsó része"
+  },
+  {
+    "Title": "Hasprés megemelt lábbal",
+    "MuscleGroup": "Egyenes hasizom alsó része"
+  },
+  {
+    "Title": "Lábemelés hanyattfekvésben",
+    "MuscleGroup": "Egyenes hasizom alsó része"
+  },
+  {
+    "Title": "Lebegőülés",
+    "MuscleGroup": "Egyenes hasizom alsó része"
+  },
+  {
+    "Title": "Ülő hasprés gép",
+    "MuscleGroup": "Egyenes hasizom alsó része"
+  },
+  {
+    "Title": "Hasprés lábváltással oldalra",
+    "MuscleGroup": "Ferde hasizom"
+  },
+  {
+    "Title": "Hasprés oldalra talajon",
+    "MuscleGroup": "Ferde hasizom"
+  },
+  {
+    "Title": "Áthúzás",
+    "MuscleGroup": "széles hátizom"
+  },
+  {
+    "Title": "Csigás evezés ülve",
+    "MuscleGroup": "széles hátizom"
+  },
+  {
+    "Title": "Evezés csigán állva",
+    "MuscleGroup": "széles hátizom"
+  },
+  {
+    "Title": "Evezés súlyzóval beforgatással",
+    "MuscleGroup": "széles hátizom"
+  },
+  {
+    "Title": "Fűrészelés csigán",
+    "MuscleGroup": "széles hátizom"
+  },
+  {
+    "Title": "Húzódzkodás alsófogással",
+    "MuscleGroup": "széles hátizom"
+  },
+  {
+    "Title": "Húzódzkodás széles fogással",
+    "MuscleGroup": "széles hátizom"
+  },
+  {
+    "Title": "Mellhez húzás széles fogással",
+    "MuscleGroup": "széles hátizom"
+  },
+  {
+    "Title": "Mellhez húzás szűk fogással, háromszöggel",
+    "MuscleGroup": "széles hátizom"
+  },
+  {
+    "Title": "Mellhez húzás szűk, fordított fogással",
+    "MuscleGroup": "széles hátizom"
+  },
+  {
+    "Title": "Merevkaros letolás",
+    "MuscleGroup": "széles hátizom"
+  },
+  {
+    "Title": "Nyakhoz húzás széles fogással",
+    "MuscleGroup": "széles hátizom"
+  },
+  {
+    "Title": "Hipernyújtás",
+    "MuscleGroup": "Gerincmerevítő hátizom"
+  },
+  {
+    "Title": "Csigás evezés ülve",
+    "MuscleGroup": "Trapéz izom alsó része"
+  },
+  {
+    "Title": "Evezés csigán állva",
+    "MuscleGroup": "Trapéz izom alsó része"
+  },
+  {
+    "Title": "Evezés súlyzóval beforgatással",
+    "MuscleGroup": "Trapéz izom alsó része"
+  },
+  {
+    "Title": "Fűrészelés csigán",
+    "MuscleGroup": "Trapéz izom alsó része"
+  },
+  {
+    "Title": "Húzódzkodás alsófogással",
+    "MuscleGroup": "Trapéz izom alsó része"
+  },
+  {
+    "Title": "Húzódzkodás széles fogással",
+    "MuscleGroup": "Trapéz izom alsó része"
+  },
+  {
+    "Title": "Mellhez húzás széles fogással",
+    "MuscleGroup": "Trapéz izom alsó része"
+  },
+  {
+    "Title": "Mellhez húzás szűk fogással, háromszöggel",
+    "MuscleGroup": "Trapéz izom alsó része"
+  },
+  {
+    "Title": "Mellhez húzás szűk, fordított fogással",
+    "MuscleGroup": "Trapéz izom alsó része"
+  },
+  {
+    "Title": "Merevkaros letolás",
+    "MuscleGroup": "Trapéz izom alsó része"
+  },
+  {
+    "Title": "Nyakhoz húzás széles fogással",
+    "MuscleGroup": "Trapéz izom alsó része"
+  },
+  {
+    "Title": "Combtávolító",
+    "MuscleGroup": "Nagy farizom"
+  },
+  {
+    "Title": "Csípőemelés talajon",
+    "MuscleGroup": "Nagy farizom"
+  },
+  {
+    "Title": "Elölguggolás",
+    "MuscleGroup": "Nagy farizom"
+  },
+  {
+    "Title": "Felhúzás 1.",
+    "MuscleGroup": "Nagy farizom"
+  },
+  {
+    "Title": "Felhúzás 2.",
+    "MuscleGroup": "Nagy farizom"
+  },
+  {
+    "Title": "Guggolás",
+    "MuscleGroup": "Nagy farizom"
+  },
+  {
+    "Title": "Guggolás keretben",
+    "MuscleGroup": "Nagy farizom"
+  },
+  {
+    "Title": "Kitörés 1.",
+    "MuscleGroup": "Nagy farizom"
+  },
+  {
+    "Title": "Kitörés 2.",
+    "MuscleGroup": "Nagy farizom"
+  },
+  {
+    "Title": "Kitörés karemeléssel magas tartásba",
+    "MuscleGroup": "Nagy farizom"
+  },
+  {
+    "Title": "Lábemelés talajon hátra",
+    "MuscleGroup": "Nagy farizom"
+  },
+  {
+    "Title": "Lábemelés talajon oldalra",
+    "MuscleGroup": "Nagy farizom"
+  },
+  {
+    "Title": "Lábtoló",
+    "MuscleGroup": "Nagy farizom"
+  },
+  {
+    "Title": "Merevlábas felhúzás",
+    "MuscleGroup": "Nagy farizom"
+  },
+  {
+    "Title": "Padra lépés",
+    "MuscleGroup": "Nagy farizom"
+  },
+  {
+    "Title": "Terpesz guggolás",
+    "MuscleGroup": "Nagy farizom"
+  },
+  {
+    "Title": "Combközelítő",
+    "MuscleGroup": "Belső combizom"
+  },
+  {
+    "Title": "Elölguggolás",
+    "MuscleGroup": "Belső combizom"
+  },
+  {
+    "Title": "Lábtárogatás talajon",
+    "MuscleGroup": "Belső combizom"
+  },
+  {
+    "Title": "Terpesz guggolás",
+    "MuscleGroup": "Belső combizom"
+  },
+  {
+    "Title": "Bolgár guggolás",
+    "MuscleGroup": "Négyfejű combizom"
+  },
+  {
+    "Title": "Elölguggolás",
+    "MuscleGroup": "Négyfejű combizom"
+  },
+  {
+    "Title": "Guggolás",
+    "MuscleGroup": "Négyfejű combizom"
+  },
+  {
+    "Title": "Guggolás keretben",
+    "MuscleGroup": "Négyfejű combizom"
+  },
+  {
+    "Title": "Kitörés 1.",
+    "MuscleGroup": "Négyfejű combizom"
+  },
+  {
+    "Title": "Kitörés 2.",
+    "MuscleGroup": "Négyfejű combizom"
+  },
+  {
+    "Title": "Kitörés karemeléssel magas tartásba",
+    "MuscleGroup": "Négyfejű combizom"
+  },
+  {
+    "Title": "Lábnyújtás",
+    "MuscleGroup": "Négyfejű combizom"
+  },
+  {
+    "Title": "Lábtoló",
+    "MuscleGroup": "Négyfejű combizom"
+  },
+  {
+    "Title": "Padra lépés",
+    "MuscleGroup": "Négyfejű combizom"
+  },
+  {
+    "Title": "Sissy guggolás",
+    "MuscleGroup": "Négyfejű combizom"
+  },
+  {
+    "Title": "Terpesz guggolás",
+    "MuscleGroup": "Négyfejű combizom"
+  },
+  {
+    "Title": "Bolgár guggolás",
+    "MuscleGroup": "Combhajlító"
+  },
+  {
+    "Title": "Csípőemelés talajon",
+    "MuscleGroup": "Combhajlító"
+  },
+  {
+    "Title": "Elölguggolás",
+    "MuscleGroup": "Combhajlító"
+  },
+  {
+    "Title": "Felhúzás 1.",
+    "MuscleGroup": "Combhajlító"
+  },
+  {
+    "Title": "Felhúzás 2.",
+    "MuscleGroup": "Combhajlító"
+  },
+  {
+    "Title": "Guggolás",
+    "MuscleGroup": "Combhajlító"
+  },
+  {
+    "Title": "Guggolás keretben",
+    "MuscleGroup": "Combhajlító"
+  },
+  {
+    "Title": "Kitörés 1.",
+    "MuscleGroup": "Combhajlító"
+  },
+  {
+    "Title": "Kitörés 2.",
+    "MuscleGroup": "Combhajlító"
+  },
+  {
+    "Title": "Kitörés karemeléssel magas tartásba",
+    "MuscleGroup": "Combhajlító"
+  },
+  {
+    "Title": "Lábtoló",
+    "MuscleGroup": "Combhajlító"
+  },
+  {
+    "Title": "Merevlábas felhúzás",
+    "MuscleGroup": "Combhajlító"
+  },
+  {
+    "Title": "Padra lépés",
+    "MuscleGroup": "Combhajlító"
+  },
+  {
+    "Title": "Terpesz guggolás",
+    "MuscleGroup": "Combhajlító"
+  },
+  {
+    "Title": "Ülő combhajlító",
+    "MuscleGroup": "Combhajlító"
+  },
+  {
+    "Title": "Álló vádli gépen",
+    "MuscleGroup": "Vádli"
+  },
+  {
+    "Title": "Egylábas vádligyakorlat",
+    "MuscleGroup": "Vádli"
+  },
+  {
+    "Title": "Vádli lábtolón",
+    "MuscleGroup": "Vádli"
+  }
+]

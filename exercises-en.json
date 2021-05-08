@@ -1,0 +1,898 @@
+[
+  {
+    "Title": "Biceps Curls With Barbell",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Biceps Curls With SZ-bar",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Biceps Curls With Dumbbell",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Dips",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Dips Between Two Benches",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "French Press (skullcrusher) SZ-bar",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "French Press (skullcrusher) Dumbbells",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Hammercurls",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Dumbbells on Scott Machine",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Bench Press Narrow Grip",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Triceps Extensions on Cable",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Triceps Extensions on Cable With Bar",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Crunches",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Crunches With Cable",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Negative Crunches",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Crunches on Machine",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Sit-ups",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Benchpress Dumbbells",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Butterfly",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Butterfly Narrow Grip",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Decline Bench Press Barbell",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Decline Bench Press Dumbbell",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Standing Calf Raises",
+    "MuscleGroup": "Calves"
+  },
+  {
+    "Title": "Sitting Calf Raises",
+    "MuscleGroup": "Calves"
+  },
+  {
+    "Title": "Calf Raises on Hackenschmitt Machine",
+    "MuscleGroup": "Calves"
+  },
+  {
+    "Title": "Deadlifts",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Rowing, T-bar",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Pull-ups",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Rowing, Seated",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Bent Over Rowing",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Bent Over Rowing Reverse",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Squats",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Dumbbell Lunges Standing",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Dumbbell Lunges Walking",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Leg Presses (wide)",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Leg Presses (narrow)",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Good Mornings",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Leg Curls (sitting)",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Leg Curls (standing)",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Shoulder Press, Barbell",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Fly With Cable",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Shoulder Press, Dumbbells",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Butterfly Reverse",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Leg Raises, Lying",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Leg Raises, Standing",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Upright Row, SZ-bar",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Hyperextensions",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Biceps Curl With Cable",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Leg Press on Hackenschmidt Machine",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Hammercurls on Cable",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Triceps Machine",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Pull Ups on Machine",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "MGM Machine",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Rowing, Lying on Bench",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Long-Pulley (low Row)",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Long-Pulley, Narrow",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Fly With Dumbbells",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Fly With Dumbbells, Decline Bench",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Upright Row, on Multi Press",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Lateral Raises",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Lateral Raises on Cable, One Armed",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Shrugs, Barbells",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Shrugs, Dumbbells",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Shoulder Press, on Machine",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Leg Curls (laying)",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Shoulder Press, on Multi Press",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Pistol Squat",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Rack Deadlift",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Triceps Dips",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Incline Bench Press",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "High Pull",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Incline Plank With Alternate Floor Touch",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Hanging Leg Raises",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Cable Woodchoppers",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Incline Pushups",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Splinter Sit-ups",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Side Crunch",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Leg Extension",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Chin-ups",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Perfect Push Up",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Squat Jumps",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Triceps Bench Press One Barbell",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Lat Pull Down (Straight Back)",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Lat Pull Down (Leaning Back)",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Power Clean",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Push Press",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Front Squats",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Bench Press",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Preacher Curls",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Cross-Bench Dumbbell Pullovers",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Push Ups",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Overhand Cable Curl",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Pendelay Rows",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Wall Pushup",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Wide-grip Pulldown",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Single-arm Preacher Curl",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Incline Dumbbell Flye",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Cable Cross-over",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Reverse Bar Curl",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Stiff-legged Deadlifts",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Incline Dumbbell Press",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Leverage Machine Chest Press",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Underhand Lat Pull Down",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Close-grip Lat Pull Down",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Leverage Machine Iso Row",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Straight-arm Pull Down (rope Attachment)",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Straight-arm Pull Down (bar Attachment)",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Close-grip Bench Press",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Smith Machine Close-grip Bench Press",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Arnold Shoulder Press",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Military Press",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Front Raises",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Rear Delt Raises",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Plank",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Kettlebell Swings",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Military Press",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Upper External Oblique",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Decline Pushups",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Roman Chair",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Cable External Rotation",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Bent High Pulls",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Run - Treadmill",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Pause Bench",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Snach",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Dumbbell Triceps Extension",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Dumbbell Concentration Curl",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Side Dumbbell Trunk Flexion",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Tricep Dumbbell Kickback",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "L Hold",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Axe Hold",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Hercules Pillars",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Stationary Bike",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Dumbbell Incline Curl",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Dumbbell Goblet Squat",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Side to Side Push Ups",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Flutter Kicks",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "High Knee Jumps",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Z Curls",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Lateral-to-Front Raises",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Bear Walk",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Calf Press Using Leg Press Machine",
+    "MuscleGroup": "Calves"
+  },
+  {
+    "Title": "Trunk Rotation With Cable",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Upright Row w/ Dumbbells",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Lying Rotator Cuff Exercise",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Hand Grip",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Turkish Get-Up",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Side Raise",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Weighted Step",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Weighted Step-ups",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Side Plank",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Full Sit Outs",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Speed Deadlift",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Diagonal Shoulder Press",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Superman",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Isometric Wipers",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Shotgun Row",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Incline Dumbbell Row",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Body-Ups",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Braced Squat",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Barbell Ab Rollout",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Barbell Triceps Extension",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "2 Handed Kettlebell Swing",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Bulgarian Split Squat",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Deadhang",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Romanian Deadlift",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Burpees",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Overhead Squat",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Wall Handstand",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Ring Dips",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Pike Push Ups",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Bentover Dumbbell Rows",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Hip Raise, Lying",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Deficit Deadlift",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Standing Rope Forearm",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Hollow Hold",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Seated Triceps Press",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Wall Squat",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Bear Walk",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Low Box Squat - Wide Stance",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Upper Body",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Facepull",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Thruster",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Run",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Run - Interval Training",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Reverse Grip Bench Press",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Barbell Lunges",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Barbell Hack Squats",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Glute Bridge",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Reverse Plank",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Skipping - Standard",
+    "MuscleGroup": "Calves"
+  },
+  {
+    "Title": "Bent Over Barbell Row",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Extenseurs - Face",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Crunches With Legs Up",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Bent-over Lateral Raises",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Side-lying External Rotation",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Jogging",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "V-Bar Pulldown",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Prone Scapular Retraction - Arms at Side",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "High Knees",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Deadbug",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Wall Slides",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Curl su Panca a 45°",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Muscle up",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Scissors",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Back Squat",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Hindu Squats",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Renegade Row",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Standing Bicep Curl",
+    "MuscleGroup": "Arms"
+  },
+  {
+    "Title": "Calf Raises",
+    "MuscleGroup": "Calves"
+  },
+  {
+    "Title": "Dips",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Leg Press",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Pushups",
+    "MuscleGroup": "Chest"
+  },
+  {
+    "Title": "Leg Raise",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Leg Curl",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Plank",
+    "MuscleGroup": "Abs"
+  },
+  {
+    "Title": "Squat Thrust",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Leg Extension",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Row",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Shoulder Fly",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Chin Up",
+    "MuscleGroup": "Back"
+  },
+  {
+    "Title": "Leg Extension",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Shoulder Shrug",
+    "MuscleGroup": "Shoulders"
+  },
+  {
+    "Title": "Cycling",
+    "MuscleGroup": "Legs"
+  },
+  {
+    "Title": "Handstand Pushup",
+    "MuscleGroup": "Shoulders"
+  }
+]
